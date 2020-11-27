@@ -1,6 +1,11 @@
 ## Versions
 
+Newest version: 
+
 **v0.2.1A - 27.11.2020 - [JAR](https://www.dropbox.com/s/ovhep5tedyj5eil/TogetherInSpire%20v0.2.1A.jar?dl=1)**
+
+
+Old versions: 
 
 v0.2.0A - 18.11.2020 - [PATREON ONLY](https://www.patreon.com/draco9990)
 
