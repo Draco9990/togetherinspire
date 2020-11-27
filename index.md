@@ -16,7 +16,7 @@ Please report all bugs in the discord #bug-reports channel!
 
 ## FAQ
 
-https://pastebin.pl/view/raw/da7ac3ec
+[Check the FAQ out here](https://pastebin.pl/view/raw/da7ac3ec)
 
 -----------
 
