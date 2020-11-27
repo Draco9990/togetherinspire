@@ -12,7 +12,7 @@ v0.1.0A - 15.10.2020 - JAR UNAVAILABLE
 
 To find the crash file go to your Slay the Spire game folder -> "sendToDevs" -> "logs" -> "SlayTheSpire.log" file.
 
-Please submit that file in the discord #bug-reports channel. Please note to submit it right away, as it gets wiped if you start a new game!
+Please submit that file in the discord #crash-logs channel. Please note to submit it right away, as it gets wiped if you start a new game!
 
 -----------
 
