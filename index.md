@@ -1,6 +1,6 @@
 ## Versions
 
-**Newest version: **
+**Newest version:**
 
 **v0.2.1A - 27.11.2020 - [JAR](https://www.dropbox.com/s/ovhep5tedyj5eil/TogetherInSpire%20v0.2.1A.jar?dl=1)**
 
