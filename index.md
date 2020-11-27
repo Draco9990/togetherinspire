@@ -28,6 +28,8 @@ Please report all bugs in the discord #bug-reports channel!
 
 - Pressing back after hosting a server - GAME CRASH
 
+- Random desync, super rare and unknown cause - PERMANENT DESYNC
+
 -----------
 
 ## Future plans
