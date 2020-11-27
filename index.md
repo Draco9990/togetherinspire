@@ -2,7 +2,7 @@
 
 **Newest version:**
 
-**v0.2.1A - 27.11.2020 - [JAR](https://www.dropbox.com/s/ovhep5tedyj5eil/TogetherInSpire%20v0.2.1A.jar?dl=1) - [CHANGELOG](https://pastebin.pl/view/11bf37ac)**
+**v0.2.1A - 27.11.2020 - [JAR](https://www.dropbox.com/s/ovhep5tedyj5eil/TogetherInSpire%20v0.2.1A.jar?dl=1) - [CHANGELOG](https://pastebin.pl/view/raw/11bf37ac)**
 
 
 Old versions: 
