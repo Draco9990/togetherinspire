@@ -33,8 +33,6 @@ Please submit that file in the discord #crash-logs channel. Please note to submi
 
 - Playing the same characters will show the other person as a shadow-y character, and you'll both get same card choices - PLAYABLE
 
-- Casting cards after ending turn - GAME FREEZE
-
 - Pressing back after hosting a server - GAME CRASH
 
 - Random desync, super rare and unknown cause - PERMANENT DESYNC
