@@ -41,10 +41,6 @@ Please submit that file in the discord #crash-logs channel. Please note to submi
 
 - Pressing back after hosting a server - GAME CRASH
 
-- Random desync, super rare and unknown cause - PERMANENT DESYNC
+- Random desync, super rare and unknown cause - PERMANENT DESYNC - hopefully fixed
 
------------
-
-## Future plans
-
-COMING SOON
+- Various power/health values sometimes not syncing - PLAYABLE - minor issue, will be fixed in future updates
