@@ -1,15 +1,21 @@
 ## Versions
 
-**Newest version:**
+**Newest versions:**
 
-**v0.2.2A - 29.11.2020 - [JAR](https://www.dropbox.com/s/hsok7xq50t1drrn/TogetherInSpire%20v0.2.2A.jar?dl=1) - [CHANGELOG](https://pastebin.pl/view/raw/8065c25e)**
+
+**v0.3.0A - 17.01.2021 - [PATREON EXCLUSIVE](https://www.patreon.com/posts/46327483) - [CHANGELOG](https://pastebin.pl/view/raw/c5de1b1f)**
+
+**v0.2.3A - 17.01.2021 - [JAR](https://www.dropbox.com/s/48kjbhcivty3a9f/TogetherInSpire%20v0.2.3A.jar?dl=1) - [CHANGELOG](https://pastebin.pl/view/raw/f7259554)**
+
 
 
 Old versions: 
 
+v0.2.2A - 29.11.2020 - [JAR](https://www.dropbox.com/s/hsok7xq50t1drrn/TogetherInSpire%20v0.2.2A.jar?dl=1) - [CHANGELOG](https://pastebin.pl/view/raw/8065c25e)
+
 v0.2.1A - 27.11.2020 - [JAR](https://www.dropbox.com/s/ovhep5tedyj5eil/TogetherInSpire%20v0.2.1A.jar?dl=1) - [CHANGELOG](https://pastebin.pl/view/raw/11bf37ac)
 
-v0.2.0A - 18.11.2020 - [PATREON EXCLUSIVE](https://www.patreon.com/draco9990) - [CHANGELOG](https://pastebin.pl/view/raw/db8c2833)
+v0.2.0A - 18.11.2020 - [PATREON EXCLUSIVE](https://www.patreon.com/posts/together-in-v0-2-44048998) - [CHANGELOG](https://pastebin.pl/view/raw/db8c2833)
 
 v0.1.0A - 15.10.2020 - JAR UNAVAILABLE
 
