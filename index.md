@@ -2,7 +2,7 @@
 
 **Newest versions:**
 
-**[COMPLETE V0.3A CHANGELOG](https://pastebin.com/raw/WFpRf0tv)
+**[COMPLETE V0.3A CHANGELOG](https://pastebin.com/raw/WFpRf0tv)**
 
 **v0.3.3A - 05.02.2021 - [WORKSHOP](https://steamcommunity.com/sharedfiles/filedetails/?id=2384072973) -  [JAR](https://www.dropbox.com/s/37pxn1sahagjib5/TogetherInSpire%20v0.3.3A.jar?dl=1) - [CHANGELOG](https://pastebin.com/raw/z64rxUB3)**
 
