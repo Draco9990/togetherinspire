@@ -2,14 +2,14 @@
 
 **Newest versions:**
 
+**[COMPLETE V0.3A CHANGELOG](https://pastebin.com/raw/WFpRf0tv)
 
-**v0.3.2A - 02.02.2021 - [PATREON EXCLUSIVE](https://www.patreon.com/posts/47022604) - [CHANGELOG](https://pastebin.pl/view/raw/200ac3c0)**
-
-**v0.2.3A - 17.01.2021 - [JAR](https://www.dropbox.com/s/48kjbhcivty3a9f/TogetherInSpire%20v0.2.3A.jar?dl=1) - [CHANGELOG](https://pastebin.pl/view/raw/f7259554)**
-
+**v0.3.3A - 05.02.2021 - [WORKSHOP](https://steamcommunity.com/sharedfiles/filedetails/?id=2384072973) -  [JAR](https://www.dropbox.com/s/37pxn1sahagjib5/TogetherInSpire%20v0.3.3A.jar?dl=1) - [CHANGELOG](https://pastebin.com/raw/z64rxUB3)**
 
 
 Old versions: 
+
+v0.3.2A - 02.02.2021 - [PATREON EXCLUSIVE](https://www.patreon.com/posts/47022604) - [CHANGELOG](https://pastebin.pl/view/raw/200ac3c0)
 
 v0.3.1A - 26.01.2021 - [PATREON EXCLUSIVE](https://www.patreon.com/posts/46701837) - [CHANGELOG](https://pastebin.pl/view/raw/d4889bbc)
 
@@ -39,12 +39,10 @@ Please submit that file in the discord #crash-logs channel. Please note to submi
 
 -----------
 
-## Known Bugs
+## Common Bugs
 
 - Playing the same characters will show the other person as a shadow-y character, and you'll both get same card choices - PLAYABLE
 
 - Pressing back after hosting a server - GAME CRASH
-
-- Random desync, super rare and unknown cause - PERMANENT DESYNC - hopefully fixed
 
 - Various power/health values sometimes not syncing - PLAYABLE - minor issue, will be fixed in future updates
