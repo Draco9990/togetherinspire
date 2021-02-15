@@ -2,12 +2,12 @@
 
 **Newest versions:**
 
-**[COMPLETE V0.3.5A CHANGELOG](https://pastebin.com/raw/fNBj0Sqd)**
-
-**v0.3.5A - 11.02.2021 - [WORKSHOP](https://steamcommunity.com/sharedfiles/filedetails/?id=2384072973) -  [JAR](https://www.dropbox.com/s/a97czdifesnseye/TogetherInSpire%20v0.3.5A.jar?dl=1) - [CHANGELOG](https://pastebin.com/raw/JJHTUDt8)**
+**v0.3.6A - 15.02.2021 - [WORKSHOP](https://steamcommunity.com/sharedfiles/filedetails/?id=2384072973) -  [JAR](https://www.dropbox.com/s/iwp7ifcrtyanafo/TogetherInSpire%20v0.3.6A.jar?dl=1) - [CHANGELOG](https://pastebin.com/raw/Rk9HMife)**
 
 
 Old versions: 
+
+v0.3.5A - 11.02.2021 - [WORKSHOP](https://steamcommunity.com/sharedfiles/filedetails/?id=2384072973) -  [JAR](https://www.dropbox.com/s/a97czdifesnseye/TogetherInSpire%20v0.3.5A.jar?dl=1) - [CHANGELOG](https://pastebin.com/raw/JJHTUDt8)
 
 v0.3.4A - 10.02.2021 - [PATREON EXCLUSIVE](https://www.patreon.com/posts/47387881) - [CHANGELOG](https://pastebin.com/raw/kBKUQ8xh)
 
