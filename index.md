@@ -44,13 +44,3 @@ Please submit that file in the discord #crash-logs channel. Please note to submi
 ## FAQ
 
 [Check the FAQ out here](https://pastebin.pl/view/raw/da7ac3ec)
-
------------
-
-## Common Bugs
-
-- Playing the same characters will show the other person as a shadow-y character, and you'll both get same card choices - PLAYABLE
-
-- Pressing back after hosting a server - GAME CRASH
-
-- Various power/health values sometimes not syncing - PLAYABLE - minor issue, will be fixed in future updates
