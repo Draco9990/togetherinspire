@@ -2,7 +2,7 @@
 
 **Newest versions:**
 
-**v1.0.0A - 17.11.2021 - [PATREON EXCLUSIVE](https://www.patreon.com/posts/58789104) - [CHANGELOG](https://pastebin.com/raw/xhTmksVA)**
+**v1.0.0 - 17.11.2021 - [PATREON EXCLUSIVE](https://www.patreon.com/posts/58789104) - [CHANGELOG](https://pastebin.com/raw/xhTmksVA)**
 
 **v0.3.6A - 15.02.2021 - [WORKSHOP](https://steamcommunity.com/sharedfiles/filedetails/?id=2384072973) -  [JAR](https://www.dropbox.com/s/iwp7ifcrtyanafo/TogetherInSpire%20v0.3.6A.jar?dl=1) - [CHANGELOG](https://pastebin.com/raw/Rk9HMife)**
 
