@@ -37,6 +37,15 @@ v0.1.0A - 15.10.2020 - JAR UNAVAILABLE
 
 -----------
 
+## Hall of Fame
+
+Name | Game Time | Actual Time | Version
+----------------------------------------
+Test | Test | Test | Test
+
+
+-----------
+
 ## Bug reports
 
 To find the crash file go to your Slay the Spire game folder -> "sendToDevs" -> "logs" -> "SlayTheSpire.log" file.
