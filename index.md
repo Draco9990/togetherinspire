@@ -2,7 +2,7 @@
 
 **Newest versions:**
 
-**v1.2.0 - 3.12.2021 - [JAR UNLOCKED AT 15:30 EST]() - [CHANGELOG](https://pastebin.com/raw/2LaRmVYE) - [CHANGELOG FROM 0.3.6A](https://pastebin.com/raw/3N3PibtY)**
+**v1.2.0 - 3.12.2021 - [JAR UNLOCKED AT 15:30 EST]() - [CHANGELOG](https://pastebin.com/raw/2LaRmVYE) - [CHANGELOG FROM v0.3.6A](https://pastebin.com/raw/3N3PibtY)**
 
 Old versions: 
 
