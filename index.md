@@ -2,7 +2,7 @@
 
 **Newest versions:**
 
-**v2.0 - 22.12.2021 - [PATREON EXCLUSIVE](https://www.patreon.com/posts/60199622) - [CHANGELOG](https://pastebin.com/raw/2LaRmVYE)**
+**v2.0 - 22.12.2021 - [PATREON EXCLUSIVE](https://www.patreon.com/posts/60199622) - [CHANGELOG](https://pastebin.com/raw/9giXQh8q)**
 
 **v1.2.5 - 6.12.2021 - [JAR](https://drive.google.com/file/d/1SnevJ51Oech1i9ygdbZVni61NIYmBaT3/view?usp=sharing) - [CHANGELOG](https://pastebin.com/raw/2LaRmVYE) - [CHANGELOG FROM v0.3.6A](https://pastebin.com/raw/3N3PibtY) - [MINOR CHANGELOGS](https://pastebin.com/raw/VE6V6FBk)**
 
