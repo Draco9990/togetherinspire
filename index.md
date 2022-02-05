@@ -46,7 +46,7 @@ First Ever Hell Mode Scoreboards
 
 | # | Date  | Run Duration | Names | Game Version | Recording Link |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| v1 | 5.2.2022 | 1h 32min | Rin#1018, Ocean#7531, Sky#5160, The Traveler#1922, Zaqnak#1829  | v1.2.5 | To Be Added |
+| v1 | 5.2.2022 | 01:33:22 | Rin#1018, Ocean#7531, Sky#5160, The Traveler#1922, Zaqnak#1829  | v1.2.5 | To Be Added |
 
 -----------
 
@@ -54,7 +54,7 @@ Hell Mode Scoreboards (v1)
 
 | # | Date  | Run Duration | Names | Game Version | Recording Link |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| 1 | 5.2.2022 | 1h 32min | Rin#1018, Ocean#7531, Sky#5160, The Traveler#1922, Zaqnak#1829  | v1.2.5 | To Be Added |
+| 1 | 5.2.2022 | 01:33:22 | Rin#1018, Ocean#7531, Sky#5160, The Traveler#1922, Zaqnak#1829  | v1.2.5 | To Be Added |
 
 -----------
 
