@@ -1,4 +1,4 @@
-## Versions
+# Versions
 
 **Newest versions:**
 
@@ -42,16 +42,16 @@ v0.1.0A - 15.10.2020 - JAR UNAVAILABLE
 
 -----------
 
-## Scoreboards
+# Scoreboards
 
-# First Ever Hell Mode Scoreboards
+## First Ever Hell Mode Scoreboards
 
 
 | # | Date  | Run Duration | Names | Game Version | Recording Link |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
 | v1 | 5.2.2022 | 01:33:22 | Rin#1018, Ocean#7531, Sky#5160, The Traveler#1922, Zaqnak#1829  | v1.2.5 | To Be Added |
 
-# Hell Mode Scoreboards (v1)
+## Hell Mode Scoreboards (v1)
 
 | # | Date  | Run Duration | Names | Game Version | Recording Link |
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
@@ -59,7 +59,7 @@ v0.1.0A - 15.10.2020 - JAR UNAVAILABLE
 
 -----------
 
-## Bug reports
+# Bug reports
 
 To find the crash file go to your Slay the Spire game folder -> "sendToDevs" -> "logs" -> "SlayTheSpire.log" file.
 
