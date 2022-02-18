@@ -2,13 +2,15 @@
 
 **Newest versions:**
 
-**v2.1 - 22.12.2021 - [PATREON EXCLUSIVE](https://www.patreon.com/posts/62430452) - [CHANGELOG](https://pastebin.com/raw/RLfXfCyT)**
-
-**v1.2.5 - 6.12.2021 - [JAR](https://drive.google.com/file/d/1SnevJ51Oech1i9ygdbZVni61NIYmBaT3/view?usp=sharing) - [CHANGELOG](https://pastebin.com/raw/2LaRmVYE) - [CHANGELOG FROM v0.3.6A](https://pastebin.com/raw/3N3PibtY) - [MINOR CHANGELOGS](https://pastebin.com/raw/VE6V6FBk)**
+**v2.2.0 - 18.2.2022 - [JAR](https://drive.google.com/file/d/1U5AE5CQKMJe7abHvdQWW0cemNzjAfD6N/view?usp=sharing) - [CHANGELOG](https://pastebin.com/raw/38nxTM8j) - [CHANGELOG FROM v0.3.6A](https://pastebin.com/raw/3N3PibtY)**
 
 Old versions: 
 
-v2.0 - 22.12.2021 - [PATREON EXCLUSIVE](https://www.patreon.com/posts/60199622) - [CHANGELOG](https://pastebin.com/raw/9giXQh8q)
+v2.1.0 - 11.2.2022 - [PATREON EXCLUSIVE](https://www.patreon.com/posts/62430452) - [CHANGELOG](https://pastebin.com/raw/RLfXfCyT)
+
+v2.0.0 - 22.12.2021 - [PATREON EXCLUSIVE](https://www.patreon.com/posts/60199622) - [CHANGELOG](https://pastebin.com/raw/9giXQh8q)
+
+v1.2.5 - 6.12.2021 - [JAR](https://drive.google.com/file/d/1SnevJ51Oech1i9ygdbZVni61NIYmBaT3/view?usp=sharing) - [CHANGELOG](https://pastebin.com/raw/2LaRmVYE) - [MINOR CHANGELOGS](https://pastebin.com/raw/VE6V6FBk)
 
 v1.1.0 - 25.11.2021 - [PATREON EXCLUSIVE](https://www.patreon.com/posts/59144768) - [CHANGELOG](https://pastebin.com/raw/aaYHdzSL)
 
