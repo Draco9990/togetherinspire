@@ -63,6 +63,16 @@ v0.1.0A - 15.10.2020 - JAR UNAVAILABLE
 
 -----------
 
+# Events
+
+## Hell Mode Rundown
+
+**Description:** Think you've got what it takes to beat hell mode? Gather a group of players and live stream/record yourself beating it! If successful, your usernames and times will be recorded on the website for everyone to see, and you'll recieve the Hell Champion role in discord! Additionally, first players ever to beat Hell mode in each major version will be written in a separate bracket and get the Hell Pioneer discord role!
+
+**Rules:** https://pastebin.com/raw/ZnLjTNTe
+
+--------------
+
 # Bug reports
 
 To find the crash file go to your Slay the Spire game folder -> "sendToDevs" -> "logs" -> "SlayTheSpire.log" file.
