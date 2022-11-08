@@ -2,9 +2,13 @@
 
 **Newest versions:**
 
-**v2.2.1 - 18.2.2022 - [JAR](https://drive.google.com/file/d/1SUyfx4ZuPMT8vU2NooJwQ6efehuuYT_8/view?usp=sharing) - [CHANGELOG](https://pastebin.com/raw/38nxTM8j) - [CHANGELOG FROM v1.2.5](https://pastebin.com/raw/7xAq7bc5)**
+
+
+**v3.0.2 - 11.8.2022 - [JAR](https://drive.google.com/file/d/1SUyfx4ZuPMT8vU2NooJwQ6efehuuYT_8/view?usp=sharing) - [CHANGELOG FROM v2](https://pastebin.com/raw/VJwqbpST)**
 
 Old versions: 
+
+v2.2.1 - 18.2.2022 - [JAR](https://drive.google.com/file/d/1SUyfx4ZuPMT8vU2NooJwQ6efehuuYT_8/view?usp=sharing) - [CHANGELOG](https://pastebin.com/raw/38nxTM8j) - [CHANGELOG FROM v1.2.5](https://pastebin.com/raw/7xAq7bc5)
 
 v2.1.0 - 11.2.2022 - [PATREON EXCLUSIVE](https://www.patreon.com/posts/62430452) - [CHANGELOG](https://pastebin.com/raw/RLfXfCyT)
 
