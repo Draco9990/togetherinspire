@@ -72,28 +72,12 @@ v0.1.0A - 15.10.2020 - JAR UNAVAILABLE
 
 # Scoreboards
 
-## First Ever Hell Mode Scoreboards
+## First Ever Hell Mode Scoreboard
 
 
-| # | Date  | Run Duration | Names | Game Version | Recording Link |
-| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| v1 | 5.2.2022 | 01:33:22 | Rin#1018, Ocean#7531, Sky#5160, The Traveler#1922, Zaqnak#1829  | v1.2.5 | To Be Added |
-
-## Hell Mode Scoreboards (v1)
-
-| # | Date  | Run Duration | Names | Game Version | Recording Link |
-| ------------- | ------------- | ------------- | ------------- | ------------- | ------------- |
-| 1 | 5.2.2022 | 01:33:22 | Rin#1018, Ocean#7531, Sky#5160, The Traveler#1922, Zaqnak#1829  | v1.2.5 | To Be Added |
-
------------
-
-# Events
-
-## Hell Mode Rundown
-
-**Description:** Think you've got what it takes to beat hell mode? Gather a group of players and live stream/record yourself beating it! If successful, your usernames and times will be recorded on the website for everyone to see, and you'll recieve the Hell Champion role in discord! Additionally, first players ever to beat Hell mode in each major version will be written in a separate bracket and get the Hell Pioneer discord role!
-
-[Rules](https://pastebin.com/raw/ZnLjTNTe)
+| # | Date  | Run Duration | Names | Game Version |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| v1 | 5.2.2022 | 01:33:22 | Rin#1018, Ocean#7531, Sky#5160, The Traveler#1922, Zaqnak#1829  | v1.2.5 |
 
 --------------
 
