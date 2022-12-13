@@ -2,7 +2,7 @@
 
 **Newest versions:**
 
-**v3.0.1 - 20.11.2022 - [JAR](https://drive.google.com/file/d/1w6Vw0ajFeLfAD5fKewkdZGsevl7FL3x8/view?usp=share_link) - [CHANGELOG] TODO**
+**v3.0.11 - 20.11.2022 - [JAR](https://drive.google.com/file/d/1w6Vw0ajFeLfAD5fKewkdZGsevl7FL3x8/view?usp=share_link) - [CHANGELOG] TODO**
 
 Old versions: 
 
