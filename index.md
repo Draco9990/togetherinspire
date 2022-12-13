@@ -2,11 +2,11 @@
 
 **Newest versions:**
 
-**v3.0.11 - 20.11.2022 - [JAR](https://drive.google.com/file/d/1w6Vw0ajFeLfAD5fKewkdZGsevl7FL3x8/view?usp=share_link) - [CHANGELOG] TODO**
+**v3.0.11 - 20.11.2022 - [JAR](https://drive.google.com/file/d/1w6Vw0ajFeLfAD5fKewkdZGsevl7FL3x8/view?usp=share_link) - [CHANGELOG](https://pastebin.com/raw/2jgLb5Tr)
 
 Old versions: 
 
-v3.0.10 - 19.11.2022 - [JAR](https://drive.google.com/file/d/1dx9JTa2URmhjKZ7z0EQI0m-cFoCyVWrg/view?usp=share_link) - [CHANGELOG] TODO
+v3.0.10 - 19.11.2022 - [JAR](https://drive.google.com/file/d/1dx9JTa2URmhjKZ7z0EQI0m-cFoCyVWrg/view?usp=share_link) - [CHANGELOG](https://pastebin.com/raw/eh1vQd9r)
 
 v3.0.9 - 18.11.2022 - [JAR](https://drive.google.com/file/d/18Y3oD8Rrvbm1gcP1C1oCBX_LFyE7glp7/view?usp=share_link) - [CHANGELOG](https://pastebin.com/raw/APZwJg1B)
 
@@ -14,7 +14,7 @@ v3.0.8 - 15.11.2022 - [JAR](https://drive.google.com/file/d/1HVVVb2Pw-WHnpfGRrkS
 
 v3.0.7 - 13.11.2022 - [JAR](https://drive.google.com/file/d/1Xu6Ln0pP5a1NSJXLSzVp8x6IJP1K2j67/view?usp=share_link) - [CHANGELOG](https://pastebin.com/raw/vq2xUXuB)
 
-v3.0.6 - 11.11.2022 - [JAR](https://drive.google.com/file/d/1uaZOlhK5NRTam6b3egEWvq6Tfge52ATV/view?usp=share_link) - [CHANGELOG] TODO
+v3.0.6 - 11.11.2022 - [JAR](https://drive.google.com/file/d/1uaZOlhK5NRTam6b3egEWvq6Tfge52ATV/view?usp=share_link) - [CHANGELOG](https://pastebin.com/raw/Tpk3Edx3)
 
 v3.0.5 - 10.11.2022 - [JAR](https://drive.google.com/file/d/1uJ-jfT-79xBI1IS8KENBWCcP8K4qiObk/view?usp=share_link) - [CHANGELOG](https://pastebin.com/raw/6zx2c1Eg)
 
@@ -22,11 +22,13 @@ v3.0.4 - 9.11.2022 - [JAR](https://drive.google.com/file/d/1npX-Yk-LbzO_b0w4kBMW
 
 v3.0.3 - 8.11.2022 - [JAR](https://drive.google.com/file/d/1kdwdEf2ZNMFpljg2X7cHAn3b5IkBKFYI/view?usp=share_link) - [CHANGELOG](https://pastebin.com/raw/LftGpXGA)
 
-v3.0.2 - 8.11.2022 - [JAR](https://drive.google.com/file/d/1SUyfx4ZuPMT8vU2NooJwQ6efehuuYT_8/view?usp=sharing) - [CHANGELOG FROM v2](https://pastebin.com/raw/VJwqbpST)
+v3.0.2 - 8.11.2022 - [JAR](https://drive.google.com/file/d/1SUyfx4ZuPMT8vU2NooJwQ6efehuuYT_8/view?usp=sharing) - [CHANGELOG](https://pastebin.com/raw/TJszy40L)
 
-v3.0.1 - ToDo
+v3.0.1 - 4.11.2022 - [PATREON EXCLUSIVE]() - [CHANGELOG](https://pastebin.com/raw/DZeXAgWP)
 
-v2.2.1 - 18.2.2022 - [JAR](https://drive.google.com/file/d/1SUyfx4ZuPMT8vU2NooJwQ6efehuuYT_8/view?usp=sharing) - [CHANGELOG](https://pastebin.com/raw/38nxTM8j) - [CHANGELOG FROM v1.2.5](https://pastebin.com/raw/7xAq7bc5)
+v3.0.0 - 3.11.2022 - [PATREON EXCLUSIVE]() -[CHANGELOG](https://pastebin.com/raw/PD1HMhSB)
+
+v2.2.1 - 18.2.2022 - [JAR](https://drive.google.com/file/d/1SUyfx4ZuPMT8vU2NooJwQ6efehuuYT_8/view?usp=sharing) - [CHANGELOG](https://pastebin.com/raw/38nxTM8j)
 
 v2.1.0 - 11.2.2022 - [PATREON EXCLUSIVE](https://www.patreon.com/posts/62430452) - [CHANGELOG](https://pastebin.com/raw/RLfXfCyT)
 
