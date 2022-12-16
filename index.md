@@ -2,6 +2,8 @@
 
 **Newest versions:**
 
+**v3.1.0 - 16.12.2022 - [PATREON EXCLUSIVE](https://www.patreon.com/posts/76010262) - [CHANGELOG](https://pastebin.com/raw/ijxwf8Ms)
+
 **v3.0.11 - 20.11.2022 - [JAR](https://drive.google.com/file/d/1w6Vw0ajFeLfAD5fKewkdZGsevl7FL3x8/view?usp=share_link) - [CHANGELOG](https://pastebin.com/raw/2jgLb5Tr)**
 
 Old versions: 
