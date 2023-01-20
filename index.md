@@ -76,7 +76,7 @@ v0.1.0A - 15.10.2020 - JAR UNAVAILABLE
 
 -----------
 
-#Together in Spire - Official Booster Pack Versions
+# Together in Spire - Official Booster Pack Versions
 
 **Newest versions:**
 
