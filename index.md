@@ -80,7 +80,7 @@ v0.1.0A - 15.10.2020 - JAR UNAVAILABLE
 
 **Newest versions:**
 
-v0.0.1 - 20.1.2023 - [PATREON EXCLUSIVE]() - [CHANGELOG](https://pastebin.com/raw/ujCstPZ2)
+v0.0.1 - 20.1.2023 - [PATREON EXCLUSIVE](https://www.patreon.com/posts/77514729?pr=true) - [CHANGELOG](https://pastebin.com/raw/ujCstPZ2)
 
 -----------
 
