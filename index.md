@@ -92,11 +92,3 @@ v0.0.1 - 20.1.2023 - [PATREON EXCLUSIVE]() - [CHANGELOG](https://pastebin.com/ra
 | # | Date  | Run Duration | Names | Game Version |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | v1 | 5.2.2022 | 01:33:22 | Rin#1018, Ocean#7531, Sky#5160, The Traveler#1922, Zaqnak#1829  | v1.2.5 |
-
---------------
-
-# Bug reports
-
-To find the crash file go to your Slay the Spire game folder -> "sendToDevs" -> "logs" -> "SlayTheSpire.log" file.
-
-Please submit that file in the discord #crash-logs channel. Please note to submit it right away, as it gets wiped if you start a new game!
