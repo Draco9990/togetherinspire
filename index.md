@@ -1,8 +1,8 @@
-# Versions
+# Together in Spire Versions
 
 **Newest version(s):**
 
-**v3.1.2 - 20.01.2023 - [JAR]() - [CHANGELOG](https://pastebin.com/raw/CxY00zCF) - [CHANGELOG FROM v3.0.11](https://pastebin.com/raw/Qbn8piWu)**
+**v3.1.2 - 20.01.2023 - [JAR](https://drive.google.com/file/d/1qiepUaDMQTk6n_asXwrSUbWAN8KUFD0A/view?usp=share_link) - [CHANGELOG](https://pastebin.com/raw/CxY00zCF) - [CHANGELOG FROM v3.0.11](https://pastebin.com/raw/Qbn8piWu)**
 
 Old versions: 
 
@@ -73,6 +73,14 @@ v0.2.1A - 27.11.2020 - [JAR](https://www.dropbox.com/s/ovhep5tedyj5eil/TogetherI
 v0.2.0A - 18.11.2020 - [PATREON EXCLUSIVE](https://www.patreon.com/posts/together-in-v0-2-44048998) - [CHANGELOG](https://pastebin.pl/view/raw/db8c2833)
 
 v0.1.0A - 15.10.2020 - JAR UNAVAILABLE
+
+-----------
+
+#Together in Spire - Official Booster Pack Versions
+
+**Newest versions:**
+
+v0.0.1 - 20.1.2023 - [PATREON EXCLUSIVE]() - [CHANGELOG](https://pastebin.com/raw/ujCstPZ2)
 
 -----------
 
