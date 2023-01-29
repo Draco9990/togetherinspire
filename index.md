@@ -6,6 +6,10 @@
 
 Old versions: 
 
+v3.1.9 - 28.01.2023 - [JAR](https://drive.google.com/file/d/1XhBxSBHalrcLiZHybd67H84t8TVHLmvL/view?usp=share_link) - [CHANGELOG](https://pastebin.com/raw/M9tD0XLD)
+
+v3.1.8 - 27.01.2023 - [JAR](https://drive.google.com/file/d/15tPMZYo2avl7culVRWWG6Kx2yMAln8GT/view?usp=share_link) - [CHANGELOG](https://pastebin.com/raw/4izDTHdD)
+
 v3.1.7 - 27.01.2023 - [JAR](https://drive.google.com/file/d/14D7v9APjtWP3AdluNo1pChjsGqyC3UJH/view?usp=share_link) - [CHANGELOG](https://pastebin.com/raw/aLMReXCJ)
 
 v3.1.6 - 23.01.2023 - [JAR](https://drive.google.com/file/d/15h12YKp59udicdKcCQJLVeO-rt3jnylv/view?usp=share_link) - [CHANGELOG](https://pastebin.com/raw/8XWM8rV5)
