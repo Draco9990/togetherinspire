@@ -2,7 +2,7 @@
 
 **Newest version(s):**
 
-**v3.1.8 - 27.01.2023 - [JAR](https://drive.google.com/file/d/15tPMZYo2avl7culVRWWG6Kx2yMAln8GT/view?usp=share_link) - [CHANGELOG](https://pastebin.com/raw/4izDTHdD)**
+**v3.1.10 - 27.01.2023 - [JAR](https://drive.google.com/file/d/12kWB_y45oarQfC2h1bNu7pnf6USx9Egg/view?usp=share_link) - [CHANGELOG](https://pastebin.com/raw/CeihH6Mm)**
 
 Old versions: 
 
