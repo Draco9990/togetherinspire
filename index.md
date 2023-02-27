@@ -2,7 +2,7 @@
 
 **Newest version(s):**
 
-**v4.0.0 - 27.2.2023 - [PATREON EXCLUSIVE](https://www.patreon.com/posts/79292233?pr=true) - [CHANGELOG](https://pastebin.com/raw/aQVXXczf)
+**v4.0.0 - 27.2.2023 - [PATREON EXCLUSIVE](https://www.patreon.com/posts/79292233?pr=true) - [CHANGELOG](https://pastebin.com/raw/aQVXXczf)**
 
 **v3.1.10 - 27.01.2023 - [JAR](https://drive.google.com/file/d/12kWB_y45oarQfC2h1bNu7pnf6USx9Egg/view?usp=share_link) - [CHANGELOG](https://pastebin.com/raw/CeihH6Mm)**
 
