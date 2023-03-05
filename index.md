@@ -2,9 +2,11 @@
 
 **Newest version(s):**
 
-**v4.0.5 - 03.03.2023 - [JAR](https://drive.google.com/file/d/1Fri8cAuWtzeTcX_nj62kOppFfvV0DBPm/view?usp=share_link) - [CHANGELOG](https://pastebin.com/raw/zqt8TAHx)**
+**v4.0.6 - 05.03.2023 - [JAR](https://drive.google.com/file/d/16yCC2QFTI2uwKNyTEYIITkHxaUB1SGL2/view?usp=share_link) - [CHANGELOG](https://pastebin.com/raw/gvq5V2i5)**
 
 Old versions: 
+
+v4.0.5 - 03.03.2023 - [JAR](https://drive.google.com/file/d/1Fri8cAuWtzeTcX_nj62kOppFfvV0DBPm/view?usp=share_link) - [CHANGELOG](https://pastebin.com/raw/zqt8TAHx)
 
 v4.0.4 - 03.03.2023 - [JAR](https://drive.google.com/file/d/1--dvfKULz5I7pNideN-yLsGULW9MrB46/view?usp=share_link) - [CHANGELOG](https://pastebin.com/raw/Fg5KLAa6)
 
