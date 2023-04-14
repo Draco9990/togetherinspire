@@ -1,0 +1,17 @@
+basemod
+stslib
+ojb_Bestiary
+coloredpowertips
+mintyspire
+MusicTipLib
+rare-cards-sparkle
+relicsorter
+RelicStats
+Say_the_Spire
+Better_Animation
+spirecalculator
+coloredmap
+ojb_DarkMap
+ojb_infomod2
+block-reminder
+relic-reminders
