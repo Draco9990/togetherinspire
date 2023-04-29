@@ -2,11 +2,13 @@
 
 **Newest version(s):**
 
-**v5.0.0 - 29.04.2023 - [PATREON EXCLUSIVE](https://www.patreon.com/posts/82246277) - [CHANGELOG](https://pastebin.com/raw/VanAxnw9)**
+**v5.0.1 - 29.04.2023 - [PATREON EXCLUSIVE](https://www.patreon.com/posts/82246277) - [CHANGELOG](https://pastebin.com/raw/gB4yenzL)**
 
 **v4.2.0 - 14.04.2023 - [JAR](https://drive.google.com/file/d/1p4mE_ZQo_Mqgwqmff35GnMwC3YG3NK_O/view?usp=share_link) - [CHANGELOG](https://pastebin.com/raw/iBW8zNp4)**
 
 Old versions: 
+
+v5.0.0 - 29.04.2023 - [PATREON EXCLUSIVE](https://www.patreon.com/posts/82246277) - [CHANGELOG](https://pastebin.com/raw/VanAxnw9)
 
 v4.1.1 - 09.04.2023 - [JAR](https://drive.google.com/file/d/1GeYtXlIAUcXDKtlyAhpJrfDFRX5dK5r7/view?usp=share_link) - [CHANGELOG](https://pastebin.com/raw/jtHYjJjF)
 
