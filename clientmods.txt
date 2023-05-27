@@ -24,3 +24,4 @@ Waifu the Spire
 cardMastery
 extendedui
 BootUpWindows
+pellets-indicator
