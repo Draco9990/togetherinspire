@@ -18,3 +18,5 @@ relic-reminders
 AchievementEnabler
 backflip
 cowboy-ironclad
+GooglyMod
+test447_keycuts
