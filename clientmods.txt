@@ -25,3 +25,4 @@ cardMastery
 extendedui
 BootUpWindows
 pellets-indicator
+PrideMod
