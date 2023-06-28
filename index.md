@@ -108,31 +108,31 @@ v1.1.0 - 25.11.2021 - [PATREON EXCLUSIVE](https://www.patreon.com/posts/59144768
 
 v1.0.0 - 17.11.2021 - [PATREON EXCLUSIVE](https://www.patreon.com/posts/58789104) - [CHANGELOG](https://pastebin.com/raw/xhTmksVA)
 
-v0.4.2A - 30.04.2021 - [JAR](https://tis.gg/Versions/Together%20in%20Spire%20v0.4.2.jar) - [CHANGELOG](https://pastebin.com/raw/YemzjZ1E) - [PATREON POST](https://www.patreon.com/posts/50683144)
+v0.4.2A - 30.04.2021 - [JAR](https://tis.gg/Versions/Together%20in%20Spire%20v0.4.2A.jar) - [CHANGELOG](https://pastebin.com/raw/YemzjZ1E) - [PATREON POST](https://www.patreon.com/posts/50683144)
 
-v0.4.1A - 06.04.2021 - [JAR](https://tis.gg/Versions/Together%20in%20Spire%20v0.4.1.jar) - [CHANGELOG](https://pastebin.com/raw/dRE6fJeJ) - [PATREON POST](https://www.patreon.com/posts/49696119)
+v0.4.1A - 06.04.2021 - [JAR](https://tis.gg/Versions/Together%20in%20Spire%20v0.4.1A.jar) - [CHANGELOG](https://pastebin.com/raw/dRE6fJeJ) - [PATREON POST](https://www.patreon.com/posts/49696119)
 
-v0.4.0A - 21.03.2021 - [JAR](https://tis.gg/Versions/Together%20in%20Spire%20v0.4.0.jar) - [CHANGELOG](https://pastebin.com/raw/7LstYfKA) - [PATREON POST](https://www.patreon.com/posts/49033280)
+v0.4.0A - 21.03.2021 - [JAR](https://tis.gg/Versions/Together%20in%20Spire%20v0.4.0A.jar) - [CHANGELOG](https://pastebin.com/raw/7LstYfKA) - [PATREON POST](https://www.patreon.com/posts/49033280)
 
-v0.3.6A - 15.02.2021 - [JAR](https://tis.gg/Versions/Together%20in%20Spire%20v0.3.6.jar) - [CHANGELOG](https://pastebin.com/raw/Rk9HMife)
+v0.3.6A - 15.02.2021 - [JAR](https://tis.gg/Versions/Together%20in%20Spire%20v0.3.6A.jar) - [CHANGELOG](https://pastebin.com/raw/Rk9HMife)
 
-v0.3.5A - 11.02.2021 - [JAR](https://tis.gg/Versions/Together%20in%20Spire%20v0.3.5.jar) - [CHANGELOG](https://pastebin.com/raw/JJHTUDt8)
+v0.3.5A - 11.02.2021 - [JAR](https://tis.gg/Versions/Together%20in%20Spire%20v0.3.5A.jar) - [CHANGELOG](https://pastebin.com/raw/JJHTUDt8)
 
-v0.3.4A - 10.02.2021 - [JAR](https://tis.gg/Versions/Together%20in%20Spire%20v0.3.4.jar) - [CHANGELOG](https://pastebin.com/raw/kBKUQ8xh) - [PATREON POST](https://www.patreon.com/posts/47387881)
+v0.3.4A - 10.02.2021 - [JAR](https://tis.gg/Versions/Together%20in%20Spire%20v0.3.4A.jar) - [CHANGELOG](https://pastebin.com/raw/kBKUQ8xh) - [PATREON POST](https://www.patreon.com/posts/47387881)
 
-v0.3.3A - 05.02.2021 - [JAR](https://tis.gg/Versions/Together%20in%20Spire%20v0.3.3.jar) - [CHANGELOG](https://pastebin.com/raw/z64rxUB3)
+v0.3.3A - 05.02.2021 - [JAR](https://tis.gg/Versions/Together%20in%20Spire%20v0.3.3A.jar) - [CHANGELOG](https://pastebin.com/raw/z64rxUB3)
 
-v0.3.2A - 02.02.2021 - [JAR](https://tis.gg/Versions/Together%20in%20Spire%20v0.3.2.jar) - [CHANGELOG](https://pastebin.pl/view/raw/200ac3c0) - [PATREON POST](https://www.patreon.com/posts/47022604)
+v0.3.2A - 02.02.2021 - [JAR](https://tis.gg/Versions/Together%20in%20Spire%20v0.3.2A.jar) - [CHANGELOG](https://pastebin.pl/view/raw/200ac3c0) - [PATREON POST](https://www.patreon.com/posts/47022604)
 
-v0.3.1A - 26.01.2021 - [JAR](https://tis.gg/Versions/Together%20in%20Spire%20v0.3.1.jar) - [CHANGELOG](https://pastebin.pl/view/raw/d4889bbc) - [PATREON POST](https://www.patreon.com/posts/46701837)
+v0.3.1A - 26.01.2021 - [JAR](https://tis.gg/Versions/Together%20in%20Spire%20v0.3.1A.jar) - [CHANGELOG](https://pastebin.pl/view/raw/d4889bbc) - [PATREON POST](https://www.patreon.com/posts/46701837)
 
-v0.3.0A - 17.01.2021 - [JAR](https://tis.gg/Versions/Together%20in%20Spire%20v0.3.0.jar) - [CHANGELOG](https://pastebin.pl/view/raw/c5de1b1f) - [PATREON POST](https://www.patreon.com/posts/46327483)
+v0.3.0A - 17.01.2021 - [JAR](https://tis.gg/Versions/Together%20in%20Spire%20v0.3.0A.jar) - [CHANGELOG](https://pastebin.pl/view/raw/c5de1b1f) - [PATREON POST](https://www.patreon.com/posts/46327483)
 
-v0.2.2A - 29.11.2020 - [JAR](https://tis.gg/Versions/Together%20in%20Spire%20v0.2.2.jar) - [CHANGELOG](https://pastebin.pl/view/raw/8065c25e)
+v0.2.2A - 29.11.2020 - [JAR](https://tis.gg/Versions/Together%20in%20Spire%20v0.2.2A.jar) - [CHANGELOG](https://pastebin.pl/view/raw/8065c25e)
 
-v0.2.1A - 27.11.2020 - [JAR](https://tis.gg/Versions/Together%20in%20Spire%20v0.2.1.jar) - [CHANGELOG](https://pastebin.pl/view/raw/11bf37ac)
+v0.2.1A - 27.11.2020 - [JAR](https://tis.gg/Versions/Together%20in%20Spire%20v0.2.1A.jar) - [CHANGELOG](https://pastebin.pl/view/raw/11bf37ac)
 
-v0.2.0A - 18.11.2020 - [JAR](https://tis.gg/Versions/Together%20in%20Spire%20v0.2.0.jar) - [CHANGELOG](https://pastebin.pl/view/raw/db8c2833) - [PATREON POST](https://www.patreon.com/posts/together-in-v0-2-44048998)
+v0.2.0A - 18.11.2020 - [JAR](https://tis.gg/Versions/Together%20in%20Spire%20v0.2.0A.jar) - [CHANGELOG](https://pastebin.pl/view/raw/db8c2833) - [PATREON POST](https://www.patreon.com/posts/together-in-v0-2-44048998)
 
 v0.1.0A - 15.10.2020 - JAR UNAVAILABLE
 
