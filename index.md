@@ -2,9 +2,11 @@
 
 **Newest version(s):**
 
-**v5.2.3 - 28.06.2023 - [JAR](https://tis.gg/Versions/Together%20in%20Spire%20v5.2.3.jar) - [CHANGELOG](https://pastebin.com/raw/PBysVdvz)**
+**v5.2.4 - 05.07.2023 - [JAR](https://tis.gg/Versions/Together%20in%20Spire%20v5.2.4.jar) - [CHANGELOG](https://pastebin.com/raw/eYJ4Ta4U)**
 
 Old versions: 
+
+v5.2.3 - 28.06.2023 - [JAR](https://tis.gg/Versions/Together%20in%20Spire%20v5.2.3.jar) - [CHANGELOG](https://pastebin.com/raw/PBysVdvz)
 
 v5.2.2 - 24.06.2023 - [JAR](https://tis.gg/Versions/Together%20in%20Spire%20v5.2.2.jar) - [CHANGELOG](https://pastebin.com/raw/vVf9P2GX)
 
