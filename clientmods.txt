@@ -27,3 +27,4 @@ BootUpWindows
 pellets-indicator
 PrideMod
 oceanmod
+intentgraph
