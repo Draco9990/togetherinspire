@@ -28,3 +28,5 @@ pellets-indicator
 PrideMod
 oceanmod
 intentgraph
+Curses_Come_First
+incenseburnerinfo
