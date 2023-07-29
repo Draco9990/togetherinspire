@@ -30,3 +30,5 @@ oceanmod
 intentgraph
 Curses_Come_First
 incenseburnerinfo
+downfallRelicStats
+permNeow
