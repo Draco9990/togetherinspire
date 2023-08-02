@@ -12,7 +12,6 @@ Better_Animation
 spirecalculator
 coloredmap
 ojb_DarkMap
-ojb_infomod2
 block-reminder
 relic-reminders
 AchievementEnabler
