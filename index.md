@@ -1,10 +1,14 @@
-# Together in Spire Versions
+https://pastebin.com/raw/QfW0xKii# Together in Spire Versions
 
 **Newest version(s):**
 
-**v6.0.3 - 28.07.2023 - [JAR](https://tis.gg/Versions/Together%20in%20Spire%20v6.0.3.jar) - [CHANGELOG](https://pastebin.com/raw/n49w1kwU) - [CHANGELOG from v5.2.4](https://pastebin.com/raw/99Ba6sDy)**
+**v6.1.0 - 25.08.2023 - [JAR](https://tis.gg/Versions/Together%20in%20Spire%20v6.1.0.jar) - [CHANGELOG](https://pastebin.com/raw/QfW0xKii)**
 
 Old versions: 
+
+v6.0.4 - 29.07.2023 - [JAR](https://tis.gg/Versions/Together%20in%20Spire%20v6.0.4.jar) - [CHANGELOG](https://pastebin.com/raw/ax3dbKsU)
+
+v6.0.3 - 28.07.2023 - [JAR](https://tis.gg/Versions/Together%20in%20Spire%20v6.0.3.jar) - [CHANGELOG](https://pastebin.com/raw/n49w1kwU)
 
 v6.0.2 - 24.07.2023 - [JAR](https://tis.gg/Versions/Together%20in%20Spire%20v6.0.2.jar) - [CHANGELOG](https://pastebin.com/raw/HWq7qpnC) - [PATREON POST](https://www.patreon.com/posts/86504064)
 
