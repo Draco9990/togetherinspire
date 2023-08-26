@@ -32,3 +32,4 @@ incenseburnerinfo
 downfallRelicStats
 permNeow
 fastmodecultists
+coffeeDripperWithDrip
