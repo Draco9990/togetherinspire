@@ -33,3 +33,4 @@ downfallRelicStats
 permNeow
 fastmodecultists
 coffeeDripperWithDrip
+ojb_infomod2
