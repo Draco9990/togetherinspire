@@ -2,7 +2,7 @@
 
 **Newest version(s):**
 
-**v6.3.0 - 22.10.2023 - [PATREON EXCLUSIVE]() - [CHANGELOG](https://pastebin.com/raw/xFYpD52u)**
+**v6.3.0 - 22.10.2023 - [PATREON EXCLUSIVE](https://www.patreon.com/posts/91477355?pr=true) - [CHANGELOG](https://pastebin.com/raw/xFYpD52u)**
 
 Old versions: 
 
@@ -166,7 +166,7 @@ v0.1.0A - 15.10.2020 - JAR UNAVAILABLE
 
 **Newest versions:**
 
-**v0.0.6 - 22.10.2023 - [PATREON EXCLUSIVE]() - [CHANGELOG](https://pastebin.com/raw/uAQLAQ88)**
+**v0.0.6 - 22.10.2023 - [PATREON EXCLUSIVE](https://www.patreon.com/posts/91477355?pr=true) - [CHANGELOG](https://pastebin.com/raw/uAQLAQ88)**
 
 Old versions:
 
