@@ -178,7 +178,7 @@ v0.1.0A - 15.10.2020 - JAR UNAVAILABLE
 
 **Newest versions:**
 
-**v0.0.9 - 21.01.2024 - [PATREON EXCLUSIVE]() - [CHANGELOG](https://pastebin.com/raw/t7PnDiaA)**
+**v0.0.9 - 21.01.2024 - [PATREON EXCLUSIVE](https://www.patreon.com/posts/96940640?pr=true) - [CHANGELOG](https://pastebin.com/raw/dJfpj2vZ)**
 
 Old versions:
 
