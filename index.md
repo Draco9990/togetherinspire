@@ -180,9 +180,11 @@ v0.1.0A - 15.10.2020 - JAR UNAVAILABLE
 
 **Newest versions:**
 
-**v0.0.9 - 21.01.2024 - [PATREON EXCLUSIVE](https://www.patreon.com/posts/96940640?pr=true) - [CHANGELOG](https://pastebin.com/raw/dJfpj2vZ)**
+**v0.1.0 - 21.01.2024 - [PATREON EXCLUSIVE](TiS%20-%20Official%20Booster%20Pack%20v0.1.0.jar) - [CHANGELOG](https://pastebin.com/raw/2wy4YDVH)**
 
 Old versions:
+
+v0.0.9 - 21.01.2024 - [PATREON EXCLUSIVE](https://www.patreon.com/posts/96940640?pr=true) - [CHANGELOG](https://pastebin.com/raw/dJfpj2vZ)
 
 v0.0.8 - 25.11.2023 - [PATREON EXCLUSIVE](https://www.patreon.com/posts/93504802?pr=true) - [CHANGELOG](https://pastebin.com/raw/N4N2EuL6)
 
