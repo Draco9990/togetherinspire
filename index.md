@@ -2,9 +2,11 @@
 
 **Newest version(s):**
 
-**v6.4.4 - 27.01.2024 - [JAR](https://tis.gg/Versions/Together%20in%20Spire%20v6.4.4.jar) - [CHANGELOG](https://pastebin.com/raw/bHuEhFDm)**
+**v6.4.5 - 28.01.2024 - [JAR](https://tis.gg/Versions/Together%20in%20Spire%20v6.4.5.jar) - [CHANGELOG](https://pastebin.com/raw/KbktU2qf)**
 
 Old versions: 
+
+v6.4.4 - 27.01.2024 - [JAR](https://tis.gg/Versions/Together%20in%20Spire%20v6.4.4.jar) - [CHANGELOG](https://pastebin.com/raw/bHuEhFDm)
 
 v6.4.3 - 21.01.2024 - [JAR](https://tis.gg/Versions/Together%20in%20Spire%20v6.4.3.jar) - [CHANGELOG](https://pastebin.com/raw/pGsC3JyC)
 
@@ -180,9 +182,11 @@ v0.1.0A - 15.10.2020 - JAR UNAVAILABLE
 
 **Newest versions:**
 
-**v1.0.0 - 28.01.2024 - [JAR](https://tis.gg/Versions/TiS%20-%20Official%20Booster%20Pack%20v1.0.0.jar) - [CHANGELOG](https://pastebin.com/raw/Ujny3E8Q)**
+**v1.0.1 - 28.01.2024 - [JAR](https://tis.gg/Versions/TiS%20-%20Official%20Booster%20Pack%20v1.0.1.jar) - [CHANGELOG](https://pastebin.com/raw/2MA3nLnN)**
 
 Old versions:
+
+v1.0.0 - 28.01.2024 - [JAR](https://tis.gg/Versions/TiS%20-%20Official%20Booster%20Pack%20v1.0.0.jar) - [CHANGELOG](https://pastebin.com/raw/Ujny3E8Q)
 
 v0.1.1 - 27.01.2024 - [PATREON EXCLUSIVE](TiS%20-%20Official%20Booster%20Pack%20v0.1.1.jar) - [CHANGELOG](https://pastebin.com/raw/A6HZ8Dy1)
 
