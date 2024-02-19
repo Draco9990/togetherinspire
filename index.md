@@ -1,6 +1,7 @@
 # Together in Spire Versions
 
 **Newest version(s):**
+
 **v6.4.9 - 18.02.2024 - [JAR](https://tis.gg/Versions/Together%20in%20Spire%20v6.4.9.jar) - [CHANGELOG](https://pastebin.com/raw/s2dCnNwN)**
 
 Old versions: 
