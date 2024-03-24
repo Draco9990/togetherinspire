@@ -192,9 +192,11 @@ v0.1.0A - 15.10.2020 - JAR UNAVAILABLE
 
 **Newest versions:**
 
-**v1.0.3 - 21.03.2024 - [JAR](https://tis.gg/Versions/TiS%20-%20Official%20Booster%20Pack%20v1.0.3.jar) - [CHANGELOG](https://pastebin.com/raw/C6YN820p)**
+**v1.0.4 - 23.03.2024 - [JAR](https://tis.gg/Versions/TiS%20-%20Official%20Booster%20Pack%20v1.0.4.jar) - [CHANGELOG](https://pastebin.com/raw/3am0sCtT)**
 
 Old versions:
+
+v1.0.3 - 21.03.2024 - [JAR](https://tis.gg/Versions/TiS%20-%20Official%20Booster%20Pack%20v1.0.3.jar) - [CHANGELOG](https://pastebin.com/raw/C6YN820p)
 
 v1.0.2 - 6.02.2024 - [JAR](https://tis.gg/Versions/TiS%20-%20Official%20Booster%20Pack%20v1.0.2.jar) - [CHANGELOG](https://pastebin.com/raw/9KLX23Ws)
 
