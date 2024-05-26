@@ -200,7 +200,7 @@ v0.1.0A - 15.10.2020 - JAR UNAVAILABLE
 
 # Together in Spire - Official Booster Pack Versions
 
-**Newest versions:**
+**Newest version(s):**
 
 **v1.0.5 - 26.04.2024 - [JAR](https://tis.gg/Versions/TiS%20-%20Official%20Booster%20Pack%20v1.0.5.jar) - [CHANGELOG](https://pastebin.com/raw/U8nFmuwj)**
 
@@ -237,6 +237,15 @@ v0.0.3 - 27.02.2023 - [PATREON EXCLUSIVE](https://www.patreon.com/posts/79292233
 v0.0.2 - 21.01.2023 - PATREON EXCLUSIVE - [CHANGELOG](https://pastebin.com/raw/bvPa6fum)
 
 v0.0.1 - 20.01.2023 - [PATREON EXCLUSIVE](https://www.patreon.com/posts/77514729?pr=true) - [CHANGELOG](https://pastebin.com/raw/ujCstPZ2)
+
+-----------
+# Skindex Versions
+
+**Newest version(s):**
+
+**v0.1.0 - 26.05.2024 - [PATREON EXCLUSIVE](https://www.patreon.com/posts/104990342?pr=true) - [CHANGELOG](https://pastebin.com/raw/F7CifeHe)**
+
+Old versions:
 
 -----------
 
