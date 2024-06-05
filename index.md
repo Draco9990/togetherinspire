@@ -2,6 +2,8 @@
 
 **Newest version(s):**
 
+**v6.4.15 - 25.05.2024 - [PATREON EXCLUSIVE](https://www.patreon.com/posts/105662107?pr=true) - [CHANGELOG](https://pastebin.com/raw/RfKEEB26)**
+
 **v6.4.15 - 25.05.2024 - [JAR](https://tis.gg/Versions/Together%20in%20Spire%20v6.4.15.jar) - [CHANGELOG](https://pastebin.com/raw/QuXE3XjC)**
 
 Old versions: 
@@ -201,6 +203,8 @@ v0.1.0A - 15.10.2020 - JAR UNAVAILABLE
 # Together in Spire - Official Booster Pack Versions
 
 **Newest version(s):**
+
+**v1.0.9 - 08.06.2024 - [PATREON EXCLUSIVE](https://www.patreon.com/posts/105662107?pr=true) - [CHANGELOG](https://pastebin.com/raw/vHex0RpR)**
 
 **v1.0.5 - 26.04.2024 - [JAR](https://tis.gg/Versions/TiS%20-%20Official%20Booster%20Pack%20v1.0.5.jar) - [CHANGELOG](https://pastebin.com/raw/U8nFmuwj)**
 
