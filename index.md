@@ -2,11 +2,13 @@
 
 **Newest version(s):**
 
-**v7.0.0 - 06.06.2024 - [PATREON EXCLUSIVE](https://www.patreon.com/posts/105662107?pr=true) - [CHANGELOG](https://pastebin.com/raw/RfKEEB26)**
+**v7.0.1 - 19.06.2024 - [PATREON EXCLUSIVE](https://www.patreon.com/posts/106517672?pr=true) - [CHANGELOG](https://pastebin.com/raw/M7ct8n2R)**
 
 **v6.4.15 - 25.05.2024 - [JAR](https://tis.gg/Versions/Together%20in%20Spire%20v6.4.15.jar) - [CHANGELOG](https://pastebin.com/raw/QuXE3XjC)**
 
 Old versions: 
+
+v7.0.0 - 06.06.2024 - [PATREON EXCLUSIVE](https://www.patreon.com/posts/105662107?pr=true) - [CHANGELOG](https://pastebin.com/raw/RfKEEB26)
 
 v6.4.14 - 27.04.2024 - [JAR](https://tis.gg/Versions/Together%20in%20Spire%20v6.4.14.jar) - [CHANGELOG](https://pastebin.com/raw/Q7GXLW1a)
 
@@ -247,9 +249,13 @@ v0.0.1 - 20.01.2023 - [PATREON EXCLUSIVE](https://www.patreon.com/posts/77514729
 
 **Newest version(s):**
 
-**v0.1.0 - 26.05.2024 - [PATREON EXCLUSIVE](https://www.patreon.com/posts/104990342?pr=true) - [CHANGELOG](https://pastebin.com/raw/F7CifeHe)**
+**v0.3.0 - 19.06.2024 - [PATREON EXCLUSIVE](https://www.patreon.com/posts/106517672?pr=true) - [CHANGELOG](https://pastebin.com/raw/EnfiKcax)**
 
 Old versions:
+
+v0.2.0 - 9.06.2024 - [PATREON EXCLUSIVE](https://www.patreon.com/posts/skindex-v0-2-0-105456074) - [CHANGELOG](https://pastebin.com/raw/e3fgpRKB)
+
+v0.1.0 - 26.05.2024 - [PATREON EXCLUSIVE](https://www.patreon.com/posts/104990342?pr=true) - [CHANGELOG](https://pastebin.com/raw/F7CifeHe)
 
 -----------
 
