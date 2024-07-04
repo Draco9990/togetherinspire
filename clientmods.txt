@@ -36,3 +36,4 @@ ojb_infomod2
 Feminization
 DLib
 BaseMod
+scorereviewermod
