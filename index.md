@@ -253,9 +253,11 @@ v0.0.1 - 20.01.2023 - [PATREON EXCLUSIVE](https://www.patreon.com/posts/77514729
 
 **Newest version(s):**
 
-**v0.4.0 - 23.06.2024 - [PATREON EXCLUSIVE](https://www.patreon.com/posts/106759176?pr=true) - [CHANGELOG](https://pastebin.com/raw/E22vSQxm)**
+**v0.5.0 - 29.07.2024 - [PATREON EXCLUSIVE](https://www.patreon.com/posts/109063409?pr=true) - [CHANGELOG](https://pastebin.com/raw/vWh0sDjR)**
 
 Old versions:
+
+v0.4.0 - 23.06.2024 - [PATREON EXCLUSIVE](https://www.patreon.com/posts/106759176?pr=true) - [CHANGELOG](https://pastebin.com/raw/E22vSQxm)
 
 v0.3.0 - 19.06.2024 - [PATREON EXCLUSIVE](https://www.patreon.com/posts/106517672?pr=true) - [CHANGELOG](https://pastebin.com/raw/EnfiKcax)
 
