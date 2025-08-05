@@ -2,11 +2,13 @@
 
 **Newest version(s):**
 
-**v7.0.14 - 26.07.2025 - [PATREON EXCLUSIVE](https://www.patreon.com/posts/135011882?pr=true) - [CHANGELOG](https://pastebin.com/raw/1afWEAsU)**
+**v7.0.15 - 05.08.2025 - [PATREON EXCLUSIVE](https://www.patreon.com/posts/135781335?pr=true) - [CHANGELOG](https://pastebin.com/raw/TQvBZf1E)**
 
 **v6.4.20 - 25.01.2025 - [JAR](https://tis.gg/Versions/Together%20in%20Spire%20v6.4.20.jar) - [CHANGELOG](https://pastebin.com/raw/ccm1tvAV)**
 
 Old versions:
+
+v7.0.14 - 26.07.2025 - [PATREON EXCLUSIVE](https://www.patreon.com/posts/135011882?pr=true) - [CHANGELOG](https://pastebin.com/raw/1afWEAsU)
 
 v7.0.13 - 15.03.2025 - [PATREON EXCLUSIVE](https://www.patreon.com/posts/134131944?pr=true) - [CHANGELOG](https://pastebin.com/raw/iZ06fqMJ)
 
