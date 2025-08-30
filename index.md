@@ -2,11 +2,15 @@
 
 **Newest version(s):**
 
-**v7.0.17 - 29.08.2025 - [PATREON EXCLUSIVE](https://www.patreon.com/posts/together-in-v7-0-137592078) - [CHANGELOG](https://pastebin.com/raw/VkMCDqUn)**
+Patreon: **v7.0.18 - 29.08.2025 - [JAR](https://www.patreon.com/posts/together-in-v7-0-137592078) - [CHANGELOG](https://pastebin.com/raw/ymJKHAhk)**
 
-**v6.4.20 - 25.01.2025 - [JAR](https://tis.gg/Versions/Together%20in%20Spire%20v6.4.20.jar) - [CHANGELOG](https://pastebin.com/raw/ccm1tvAV)**
+Public: **v6.4.20 - 25.01.2025 - [JAR](https://tis.gg/Versions/Together%20in%20Spire%20v6.4.20.jar) - [CHANGELOG](https://pastebin.com/raw/ccm1tvAV)**
+
+Public beta: **v7.0.18 - 29.08.2025 - [JAR](https://www.patreon.com/posts/together-in-v7-0-137592078) - [CHANGELOG](https://pastebin.com/raw/ymJKHAhk)**
 
 Old versions:
+
+v7.0.17 - 29.08.2025 - [PATREON EXCLUSIVE](https://www.patreon.com/posts/together-in-v7-0-137592078) - [CHANGELOG](https://pastebin.com/raw/VkMCDqUn)
 
 v7.0.16 - 10.08.2025 - [PATREON EXCLUSIVE](https://www.patreon.com/posts/136190322?pr=true) - [CHANGELOG](https://pastebin.com/raw/x789XShJ)
 
