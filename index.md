@@ -244,11 +244,13 @@ v0.1.0A - 15.10.2020 - JAR UNAVAILABLE
 
 **Newest version(s):**
 
-**v2.0.2 - 20.01.2025 - [PATREON EXCLUSIVE](https://www.patreon.com/posts/120435526) - [CHANGELOG](https://pastebin.com/raw/vGKuRzKJ)**
+**v2.0.7 - 05.09.2025 - [PATREON EXCLUSIVE]() - [CHANGELOG](https://pastebin.com/raw/XAAp7LHp)**
 
 **v1.0.5 - 26.04.2024 - [JAR](https://tis.gg/Versions/TiS%20-%20Official%20Booster%20Pack%20v1.0.5.jar) - [CHANGELOG](https://pastebin.com/raw/U8nFmuwj)**
 
 Old versions:
+
+v2.0.2 - 20.01.2025 - [PATREON EXCLUSIVE](https://www.patreon.com/posts/120435526) - [CHANGELOG](https://pastebin.com/raw/vGKuRzKJ)
 
 v2.0.1 - 31.08.2024 - [PATREON EXCLUSIVE](https://www.patreon.com/posts/111116823?pr=true) - [CHANGELOG](https://pastebin.com/raw/VhvAuUvp)
 
